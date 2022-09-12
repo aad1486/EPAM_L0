@@ -1,4 +1,5 @@
 #!/bin/bash
+#My homework for lesson "While loop"
 
 while :
 do
