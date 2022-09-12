@@ -1,4 +1,5 @@
 #!/bin/bash
+#This is practice lesson with function 
 
 phrase="$@"
 biba() {
